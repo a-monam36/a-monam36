@@ -52,8 +52,8 @@
 | **[Genomic Variant Predictor](https://github.com/a-monam36/genomic-sequence-predictor)** | `PyTorch` `Hugging Face` `ESM-2` | ClinVar missense mutation classifier scoring pathogenic vs. benign alleles via 15B-parameter protein LLM. |
 | **[Cloud-Native ML Deployment](https://github.com/a-monam36/docker-ml-aws)** | `Docker` `AWS EC2/RDS` `PostgreSQL` | Production-ready FastAPI regression service tracking real-time latency percentiles with analytical SQL. |
 | **[Adaptive Rehab Platform](https://github.com/a-monam36/rehab-app)** | `React Native` `TypeScript` `Health APIs` | Continuous biometric telemetry loops recalibrating physical recovery thresholds via generative feedback. |
-| **[GPS-Denied Flight Control](https://github.com/a-monam36)** | `OpenCV` `WebRTC` `MAVLink` `asyncio` | Optical flow state estimation system enabling drift-free indoor UAV hold over concurrent camera streams. |
-| **[Fleet Battery Optimization](https://github.com/a-monam36)** | `Federated Learning` `Telemetry Architecture` | Privacy-preserving ML framework predicting EV cell degradation across decentralized vehicle clusters. |
+| **[GPS-Denied Flight Control](https://github.com/a-monam36/gps-drone)** | `OpenCV` `WebRTC` `MAVLink` `asyncio` | Optical flow state estimation system enabling drift-free indoor UAV hold over concurrent camera streams. |
+| **[Fleet Battery Optimization](https://github.com/a-monam36/fleet-battery-optimizer)** | `Federated Learning` `Telemetry Architecture` | Privacy-preserving ML framework predicting EV cell degradation across decentralized vehicle clusters. |
 
 ---
 
