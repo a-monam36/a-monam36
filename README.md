@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Abdul Monam Haroon
+# ⚡ Abdul Monam
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4ADE80&center=true&vCenter=true&width=500&lines=CS+%40+York+University;Backend+%26+Distributed+Systems;AI+Infrastructure+%26+ML+Pipelines;Quantitative+Modeling+%26+Analytics)](https://git.io/typing-svg)
 
 <p align="center">
