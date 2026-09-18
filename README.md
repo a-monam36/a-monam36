@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Abdul Monam 👋
 
-<!--
-**a-monam36/a-monam36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at York University focused on backend systems, AI infrastructure, and quantitative data pipelines.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Languages:** Python, SQL (PostgreSQL), Java, C, TypeScript, Bash
+- **Backend & Cloud:** FastAPI, Redis, Docker, AWS (EC2, S3, RDS), REST APIs
+- **Data & ML:** PyTorch, Pandas, NumPy, Scikit-learn, Hugging Face, OpenCV
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Core Projects
+- **[AI Portfolio Optimizer](https://github.com/a-monam36/ai-portfolio-optimizer):** Backtesting & factor risk modeling across 8 years of S&P 500 equities.
+- **[AI Content Safety Firewall](https://github.com/a-monam36/ai-firewall):** High-throughput moderation proxy with Redis caching & Llama-Guard.
+- **[Genomic Sequence Predictor](https://github.com/a-monam36/genomic-sequence-predictor):** Missense variant classification using Meta's ESM-2 model.
+
+📫 Reach me on [LinkedIn](https://linkedin.com/in/abdulmonam) or via email at abdulmonamch@gmail.com.
