@@ -58,10 +58,9 @@
 ---
 
 ### 📊 Engineering Metrics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a-monam36&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ADE80&icon_color=4ADE80" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-monam36&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ADE80" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=a-monam36&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ADE80&icon_color=4ADE80&v=1" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-monam36&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ADE80&v=1" alt="Top Languages" width="48%" />
 </div>
 
 <br/>
