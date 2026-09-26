@@ -23,21 +23,21 @@
 ### 🛠️ Languages & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,java,c,bash,postgres,redis,aws,docker,linux,git,githubactions" /><br/>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,java,c,bash,react,postgres,redis,aws,docker,linux,git,githubactions" /><br/>
 </p>
 
 <table align="center" width="100%">
   <tr>
     <td width="20%"><b>Languages</b></td>
-    <td><code>Python</code> <code>SQL (PostgreSQL)</code> <code>TypeScript</code> <code>Java</code> <code>C</code> <code>Bash</code></td>
+    <td><code>Python</code> <code>JavaScript</code> <code>TypeScript</code> <code>Java</code> <code>C</code> <code>Bash</code> <code>SQL (PostgreSQL)</code></td>
   </tr>
   <tr>
     <td width="20%"><b>Backend & Cloud</b></td>
-    <td><code>FastAPI</code> <code>Docker</code> <code>AWS (EC2, S3, RDS)</code> <code>Redis</code> <code>REST APIs</code> <code>asyncio</code></td>
+    <td><code>FastAPI</code> <code>Playwright</code> <code>Docker</code> <code>AWS (EC2, S3, RDS)</code> <code>Redis</code> <code>REST APIs</code> <code>asyncio</code></td>
   </tr>
   <tr>
     <td width="20%"><b>AI & Data Engineering</b></td>
-    <td><code>PyTorch</code> <code>Hugging Face</code> <code>Pandas</code> <code>NumPy</code> <code>Scikit-learn</code> <code>OpenCV</code> <code>ETL</code></td>
+    <td><code>PyTorch</code> <code>Hugging Face</code> <code>Gemini API</code> <code>Pandas</code> <code>NumPy</code> <code>Scikit-learn</code> <code>OpenCV</code> <code>ETL</code></td>
   </tr>
 </table>
 
@@ -53,6 +53,7 @@
 | **[Cloud-Native ML Deployment](https://github.com/a-monam36/docker-ml-aws)** | `Docker` `AWS EC2/RDS` `PostgreSQL` | Production-ready FastAPI regression service tracking real-time latency percentiles with analytical SQL. |
 | **[Adaptive Rehab Platform](https://github.com/a-monam36/rehab-app)** | `React Native` `TypeScript` `Health APIs` | Continuous biometric telemetry loops recalibrating physical recovery thresholds via generative feedback. |
 | **[GPS-Denied Flight Control](https://github.com/a-monam36/gps-drone)** | `OpenCV` `WebRTC` `MAVLink` `asyncio` | Optical flow state estimation system enabling drift-free indoor UAV hold over concurrent camera streams. |
+| **[CareerOps-CLI](https://github.com/a-monam36/CareerOps-CLI)** | `FastAPI` `Playwright` `React` `Gemini API` | Async automation pipeline bypassing SSO to scrape job portals, score leads via LLMs, and natively compile tailored LaTeX PDFs. |
 | **[Fleet Battery Optimization](https://github.com/a-monam36/fleet-battery-optimizer)** | `Federated Learning` `Telemetry Architecture` | Privacy-preserving ML framework predicting EV cell degradation across decentralized vehicle clusters. |
 
 ---
