@@ -47,14 +47,14 @@
 
 | Project | Tech Stack | Architecture Highlights |
 | :--- | :--- | :--- |
-| **[TailorCraft-AI — Automated Job Scraping](https://github.com/a-monam36/CareerOps-CLI)** | `FastAPI` `Playwright` `React` `Gemini API` | Async automation pipeline bypassing SSO to scrape job portals, score leads via LLMs, and natively compile tailored LaTeX PDFs. |
-| **[Aegis — AI Content Safety Firewall](https://github.com/a-monam36/ai-firewall)** | `FastAPI` `Redis` `Llama-Guard` | Low-latency moderation proxy utilizing content-hash caching to eliminate redundant model inference. |
-| **[Fitter — Adaptive Telemetry & Biometric Recovery Platform](https://github.com/a-monam36/rehab-app)** | `React Native` `TypeScript` `Health APIs` | Continuous biometric telemetry loops recalibrating physical recovery thresholds via generative feedback. |
-| **[Cloud-Native Property Valuation Engine](https://github.com/a-monam36/docker-ml-aws)** | `Docker` `AWS EC2/RDS` `PostgreSQL` | Production-ready FastAPI regression service tracking real-time latency percentiles with analytical SQL. |
-| **[AI Portfolio Optimizer](https://github.com/a-monam36/ai-portfolio-optimizer)** | `Python` `Pandas` `Statsmodels` `Streamlit` | Backtesting engine over 8 years of S&P 500 tick data; rolling factor regressions and clustering allocations. |
-| **[ESM-2 Genomic Variant Predictor](https://github.com/a-monam36/genomic-sequence-predictor)** | `PyTorch` `Hugging Face` `ESM-2` | ClinVar missense mutation classifier scoring pathogenic vs. benign alleles via 15B-parameter protein LLM. |
-| **[GPS-Denied Flight Control](https://github.com/a-monam36/gps-drone)** | `OpenCV` `WebRTC` `MAVLink` `asyncio` | Optical flow state estimation system enabling drift-free indoor UAV hold over concurrent camera streams. |
-| **[Fleet Battery Optimization](https://github.com/a-monam36/fleet-battery-optimizer)** | `Federated Learning` `Telemetry Architecture` | Privacy-preserving ML framework predicting EV cell degradation across decentralized vehicle clusters. |
+| **[TailorCraft-AI — Portal Scraping & ATS Suite](https://github.com/a-monam36/TailorCraft-AI)** | `FastAPI` `Playwright` `React` `Gemini API` `LaTeX` | Async automation pipeline with persistent Chrome contexts bypassing SSO to scrape job portals, evaluate fit via Gemini, and compile tailored LaTeX PDFs via local `pdflatex`. |
+| **[Aegis — AI Content Safety Proxy](https://github.com/a-monam36/ai-firewall)** | `FastAPI` `Redis` `Llama-Guard-3` `Groq` | Zero-trust moderation gateway auditing inputs/outputs with Llama-Guard-3; leverages SHA-256 Redis caching to slash repeated verdict latency from ~400ms to <2ms. |
+| **[FITTER — Adaptive Biometric Health Platform](https://github.com/a-monam36/rehab-app)** | `React Native` `TypeScript` `Expo Router` `Gemini API` | Modular file-based mobile client sampling passive health telemetry and muscle strain ratings, synthesizing generative workout recalibrations via Gemini. |
+| **[Cloud-Native Property Valuation Engine](https://github.com/a-monam36/docker-ml-aws)**| `FastAPI` `Docker` `AWS S3/RDS` `PostgreSQL` `Streamlit` | Production regression service with dual-mode artifact resolution (S3/local disk) and SQLAlchemy telemetry pipelines profiling latency percentiles in PostgreSQL. |
+| **[AI Portfolio Optimizer](https://github.com/a-monam36/ai-portfolio-optimizer)** | `Python` `Pandas` `Statsmodels` `Scikit-learn` `Streamlit` | Quantitative engine clustering S&P 500 equities via K-Means on technical/Fama-French factors; optimizes Max Sharpe allocations across 8 years of historical data. |
+| **[ESM-2 Genomic Variant Predictor](https://github.com/a-monam36/genomic-sequence-predictor)** | `PyTorch` `Hugging Face` `ESM-2` `Three.js` `React` | Zero-shot missense pathogenicity scoring on the human dystrophin gene via ESM-2 (8M); cuts attention overhead >1,000x using a $\pm50$ residue sliding window with interactive 3D rendering. |
+| **[GPS-Denied Flight Control](https://github.com/a-monam36/gps-drone)** | `OpenCV` `WebRTC` `MAVLink` `asyncio` | Optical flow state estimation system enabling drift-free indoor UAV position hold over concurrent camera and telemetry streams via `aiortc`. |
+| **[Fleet Battery Optimization](https://github.com/a-monam36/fleet-battery-optimizer)** | `Federated Learning` `Telemetry Architecture` | Privacy-preserving ML framework predicting EV lithium-ion cell degradation across decentralized vehicle cluster telemetry. |
 
 ---
 
