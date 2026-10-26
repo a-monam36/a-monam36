@@ -47,12 +47,12 @@
 
 | Project | Tech Stack | Architecture Highlights |
 | :--- | :--- | :--- |
-| **[CareerOps-CLI](https://github.com/a-monam36/CareerOps-CLI)** | `FastAPI` `Playwright` `React` `Gemini API` | Async automation pipeline bypassing SSO to scrape job portals, score leads via LLMs, and natively compile tailored LaTeX PDFs. |
-| **[AI Content Safety Firewall](https://github.com/a-monam36/ai-firewall)** | `FastAPI` `Redis` `Llama-Guard` | Low-latency moderation proxy utilizing content-hash caching to eliminate redundant model inference. |
-| **[Adaptive Rehab Platform](https://github.com/a-monam36/rehab-app)** | `React Native` `TypeScript` `Health APIs` | Continuous biometric telemetry loops recalibrating physical recovery thresholds via generative feedback. |
-| **[Cloud-Native ML Deployment](https://github.com/a-monam36/docker-ml-aws)** | `Docker` `AWS EC2/RDS` `PostgreSQL` | Production-ready FastAPI regression service tracking real-time latency percentiles with analytical SQL. |
+| **[TailorCraft-AI — Automated Job Scraping](https://github.com/a-monam36/CareerOps-CLI)** | `FastAPI` `Playwright` `React` `Gemini API` | Async automation pipeline bypassing SSO to scrape job portals, score leads via LLMs, and natively compile tailored LaTeX PDFs. |
+| **[Aegis — AI Content Safety Firewall](https://github.com/a-monam36/ai-firewall)** | `FastAPI` `Redis` `Llama-Guard` | Low-latency moderation proxy utilizing content-hash caching to eliminate redundant model inference. |
+| **[Fitter — Adaptive Telemetry & Biometric Recovery Platform](https://github.com/a-monam36/rehab-app)** | `React Native` `TypeScript` `Health APIs` | Continuous biometric telemetry loops recalibrating physical recovery thresholds via generative feedback. |
+| **[Cloud-Native Property Valuation Engine](https://github.com/a-monam36/docker-ml-aws)** | `Docker` `AWS EC2/RDS` `PostgreSQL` | Production-ready FastAPI regression service tracking real-time latency percentiles with analytical SQL. |
 | **[AI Portfolio Optimizer](https://github.com/a-monam36/ai-portfolio-optimizer)** | `Python` `Pandas` `Statsmodels` `Streamlit` | Backtesting engine over 8 years of S&P 500 tick data; rolling factor regressions and clustering allocations. |
-| **[Genomic Variant Predictor](https://github.com/a-monam36/genomic-sequence-predictor)** | `PyTorch` `Hugging Face` `ESM-2` | ClinVar missense mutation classifier scoring pathogenic vs. benign alleles via 15B-parameter protein LLM. |
+| **[ESM-2 Genomic Variant Predictor](https://github.com/a-monam36/genomic-sequence-predictor)** | `PyTorch` `Hugging Face` `ESM-2` | ClinVar missense mutation classifier scoring pathogenic vs. benign alleles via 15B-parameter protein LLM. |
 | **[GPS-Denied Flight Control](https://github.com/a-monam36/gps-drone)** | `OpenCV` `WebRTC` `MAVLink` `asyncio` | Optical flow state estimation system enabling drift-free indoor UAV hold over concurrent camera streams. |
 | **[Fleet Battery Optimization](https://github.com/a-monam36/fleet-battery-optimizer)** | `Federated Learning` `Telemetry Architecture` | Privacy-preserving ML framework predicting EV cell degradation across decentralized vehicle clusters. |
 
